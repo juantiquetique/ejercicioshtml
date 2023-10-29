@@ -1,0 +1,37 @@
+body{
+    background-color: #D3DBDE;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    font-size: 250%;
+}
+p{
+    background-color: #B6C2C9;
+}
+h2{
+    color: #415058;
+    background-color: #7B929D;
+    font-size: 200%;
+    text-decoration: underline;
+}
+h3{
+    background-color:#7B929D;
+    color: #415058;
+    font-size: 130%;
+    font-style: italic;
+}
+a{
+    color: #006699;
+    font-weight: normal;
+}
+b{
+    color: #006699;
+}
+address{
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+    font-style: italic;
+}
